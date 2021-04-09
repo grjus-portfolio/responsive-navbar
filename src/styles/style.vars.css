@@ -1,0 +1,15 @@
+:root {
+  --background: rgba(205, 205, 205, 0.85);
+  --primary: rgba(17, 84, 171, 0.85);
+  --secondary: rgba(158, 50, 75, 0.85);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 300px;
+}
